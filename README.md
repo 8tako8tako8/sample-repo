@@ -1,3 +1,3 @@
 # sample-repo
 更新f
-Github更新2
+conflicet更新
